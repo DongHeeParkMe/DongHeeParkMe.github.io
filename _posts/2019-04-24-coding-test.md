@@ -1,5 +1,6 @@
 ---
 title: "Coding test"
+date: 2019-04-24
 categories:
   - 코딩테스트
 tags:
