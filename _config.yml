@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-South Korea"
-title                    : "Site Title"
+title                    : "DongHee Park"
 title_separator          : "-"
 name                     : "DongHee Park"
 description              : "My Github blog."
