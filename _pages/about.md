@@ -4,5 +4,3 @@ permalink: /about/
 layout: about
 author_profile: true
 ---
-
-## DongHeeParkMe@gmail.com
