@@ -3,6 +3,5 @@ permalink: /about/
 title: "About"
 ---
 
-## 버그인지 옆에 작성자가 뜨지 않습니다. 왜그런지 모르겠습니다
-
-DongHeeParkMe@gmail.com
+## 티스토리로 갑니다
+[https://dongheeparkme.tistory.com/](https://dongheeparkme.tistory.com/)
